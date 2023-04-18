@@ -1,0 +1,1519 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "handling",
+            "request": "launch",
+            "mainClass": "handling",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "hashmore",
+            "request": "launch",
+            "mainClass": "hashmore",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "sumhash",
+            "request": "launch",
+            "mainClass": "sumhash",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "mainemp",
+            "request": "launch",
+            "mainClass": "mainemp",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "mainstu",
+            "request": "launch",
+            "mainClass": "mainstu",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "checkmain",
+            "request": "launch",
+            "mainClass": "checkmain",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "kk",
+            "request": "launch",
+            "mainClass": "kk",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "setunion",
+            "request": "launch",
+            "mainClass": "setunion",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "university",
+            "request": "launch",
+            "mainClass": "university",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "userentry",
+            "request": "launch",
+            "mainClass": "userentry",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "setq",
+            "request": "launch",
+            "mainClass": "setq",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "extrapaslist",
+            "request": "launch",
+            "mainClass": "extrapaslist",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "arraylistq",
+            "request": "launch",
+            "mainClass": "arraylistq",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "itratelist",
+            "request": "launch",
+            "mainClass": "itratelist",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "arraylist1",
+            "request": "launch",
+            "mainClass": "arraylist1",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "m",
+            "request": "launch",
+            "mainClass": "m",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "ma",
+            "request": "launch",
+            "mainClass": "ma",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "maxdiffrence",
+            "request": "launch",
+            "mainClass": "maxdiffrence",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "c",
+            "request": "launch",
+            "mainClass": "c",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "deletearrayjava",
+            "request": "launch",
+            "mainClass": "deletearrayjava",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "replacesybstring",
+            "request": "launch",
+            "mainClass": "replacesybstring",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "countnuminstring",
+            "request": "launch",
+            "mainClass": "countnuminstring",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "toggle",
+            "request": "launch",
+            "mainClass": "toggle",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "revword",
+            "request": "launch",
+            "mainClass": "revword",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "tt",
+            "request": "launch",
+            "mainClass": "tt",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "rev",
+            "request": "launch",
+            "mainClass": "rev",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "rowsumcolsum",
+            "request": "launch",
+            "mainClass": "rowsumcolsum",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "dltarray",
+            "request": "launch",
+            "mainClass": "dltarray",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "insertarray",
+            "request": "launch",
+            "mainClass": "insertarray",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "digonalsum",
+            "request": "launch",
+            "mainClass": "digonalsum",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "matrixsum",
+            "request": "launch",
+            "mainClass": "matrixsum",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "superele",
+            "request": "launch",
+            "mainClass": "superele",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "check",
+            "request": "launch",
+            "mainClass": "tophundread.check",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "ltidisp",
+            "request": "launch",
+            "mainClass": "tophundread.ltidisp",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "getset",
+            "request": "launch",
+            "mainClass": "tophundread.getset",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "cl",
+            "request": "launch",
+            "mainClass": "tophundread.cl",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "mode1",
+            "request": "launch",
+            "mainClass": "tophundread.mode1",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "lt",
+            "request": "launch",
+            "mainClass": "tophundread.lt",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "nonrepe",
+            "request": "launch",
+            "mainClass": "tophundread.nonrepe",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "nonrep",
+            "request": "launch",
+            "mainClass": "tophundread.nonrep",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "nonrepatagain",
+            "request": "launch",
+            "mainClass": "tophundread.nonrepatagain",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "nonrepeat",
+            "request": "launch",
+            "mainClass": "tophundread.nonrepeat",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "strlti",
+            "request": "launch",
+            "mainClass": "tophundread.strlti",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch year",
+            "request": "launch",
+            "mainClass": "tophundread.year",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch calculator",
+            "request": "launch",
+            "mainClass": "tophundread.calculator",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch toll",
+            "request": "launch",
+            "mainClass": "tophundread.toll",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumdowhile",
+            "request": "launch",
+            "mainClass": "tophundread.sumdowhile",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumbwtwo",
+            "request": "launch",
+            "mainClass": "tophundread.sumbwtwo",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch oopslti",
+            "request": "launch",
+            "mainClass": "tophundread.oopslti",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch per",
+            "request": "launch",
+            "mainClass": "tophundread.per",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch series",
+            "request": "launch",
+            "mainClass": "tophundread.series",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch dish",
+            "request": "launch",
+            "mainClass": "tophundread.dish",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch dltatind",
+            "request": "launch",
+            "mainClass": "tophundread.dltatind",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch loop",
+            "request": "launch",
+            "mainClass": "tophundread.loop",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch patlti",
+            "request": "launch",
+            "mainClass": "tophundread.patlti",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch typecast",
+            "request": "launch",
+            "mainClass": "tophundread.typecast",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch edu",
+            "request": "launch",
+            "mainClass": "tophundread.edu",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch dis",
+            "request": "launch",
+            "mainClass": "tophundread.dis",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch display",
+            "request": "launch",
+            "mainClass": "tophundread.display",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch sorthalf",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.sorthalf",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch distinct",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.distinct",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch removedub",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.removedub",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch repeatusingmap",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.repeatusingmap",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch repeating",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.repeating",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch frequncyagain",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.frequncyagain",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch frequncymap",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.frequncymap",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch frequency",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.frequency",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch sort",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.sort",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverse",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.reverse",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.sum",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch secondsmall",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.secondsmall",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch secondlarge",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.secondlarge",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch nivesecondsmallest",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.nivesecondsmallest",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch large",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.large",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch friendlypair",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.friendlypair",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch abundant",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.abundant",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch automorphic",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.automorphic",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch harshadinjava",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.harshadinjava",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch perfectnuminjava",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.perfectnuminjava",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch strongnumberinjava",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.strongnumberinjava",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch primefactor",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.primefactor",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorofnumber",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.factorofnumber",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch fib",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.fib",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch amstrinrange",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.amstrinrange",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch amrst",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.amrst",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.HelloWorld",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch amcatfib",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.amcatfib",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch amcatcompare",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.amcatcompare",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch amcatstringsec",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.amcatstringsec",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch amcatstring",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.amcatstring",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch amcatcondiotional",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.amcatcondiotional",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumofnonprime",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.sumofnonprime",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch amcatnthlargest",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.amcatnthlargest",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch amcatrange",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.amcatrange",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertstack",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.insertstack",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch check",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.check",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch linknsertend",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.linknsertend",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch linkadd$LL",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.linkadd$LL",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch linkaddatbegin",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.linkaddatbegin",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch linksearch",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.linksearch",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch linktreverse",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.linktreverse",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch linkelement",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.linkelement",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch binaraysearchagin",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.binaraysearchagin",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch linearsearch",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.pesudo.linearsearch",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch peakelement",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.peakelement",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch binarysearch",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.binarysearch",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch rotatearray",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.rotatearray",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch rangequerymax",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.rangequerymax",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch rangequerysum",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.rangequerysum",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch stockbuy",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.stockbuy",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch missingnumxor",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.missingnumxor",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch missingnumber",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.missingnumber",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch finddublicate",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.finddublicate",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch zigzag",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.zigzag",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch removedublicatebyset",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.removedublicatebyset",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch removedublicateinshorted",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.removedublicateinshorted",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch twosumagain",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.twosumagain",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch twosum",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.twosum",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch leaders",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.leaders",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch secondlargestbysort",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.secondlargestbysort",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch secondlargest",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.secondlargest",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindromeconversion",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.palindromeconversion",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch testemployee",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.testemployee",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch employee",
+            "request": "launch",
+            "mainClass": "tophundread.newoops.employee",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumoffact",
+            "request": "launch",
+            "mainClass": "tophundread.sumoffact",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch primebwoneandhun",
+            "request": "launch",
+            "mainClass": "tophundread.primebwoneandhun",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch areaofcircle",
+            "request": "launch",
+            "mainClass": "tophundread.areaofcircle",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch replacezerowithone",
+            "request": "launch",
+            "mainClass": "tophundread.replacezerowithone",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch additionOfFractions",
+            "request": "launch",
+            "mainClass": "tophundread.additionOfFractions",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch maximumhandshakes",
+            "request": "launch",
+            "mainClass": "tophundread.maximumhandshakes",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch lcm",
+            "request": "launch",
+            "mainClass": "lcm",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch HCF",
+            "request": "launch",
+            "mainClass": "HCF",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch replacestring",
+            "request": "launch",
+            "mainClass": "replacestring",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch anagarm",
+            "request": "launch",
+            "mainClass": "anagarm",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch firstnonrepeating",
+            "request": "launch",
+            "mainClass": "firstnonrepeating",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch frequncyinString",
+            "request": "launch",
+            "mainClass": "frequncyinString",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumofstring",
+            "request": "launch",
+            "mainClass": "sumofstring",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch replacebracket",
+            "request": "launch",
+            "mainClass": "replacebracket",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch removespaceagain",
+            "request": "launch",
+            "mainClass": "removespaceagain",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch alphabet",
+            "request": "launch",
+            "mainClass": "alphabet",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch reversestringname",
+            "request": "launch",
+            "mainClass": "reversestringname",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindromename",
+            "request": "launch",
+            "mainClass": "tophundread.palindromename",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindromestr",
+            "request": "launch",
+            "mainClass": "tophundread.palindromestr",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch removevowelagain",
+            "request": "launch",
+            "mainClass": "tophundread.removevowelagain",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch removevowel",
+            "request": "launch",
+            "mainClass": "tophundread.removevowel",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch countvowel",
+            "request": "launch",
+            "mainClass": "tophundread.countvowel",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch lengthofString",
+            "request": "launch",
+            "mainClass": "tophundread.lengthofString",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch setsubarrayinsubset",
+            "request": "launch",
+            "mainClass": "tophundread.setsubarrayinsubset",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch subsetsubarray",
+            "request": "launch",
+            "mainClass": "tophundread.subsetsubarray",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch disjoint",
+            "request": "launch",
+            "mainClass": "tophundread.disjoint",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch productofsubarraymax",
+            "request": "launch",
+            "mainClass": "tophundread.productofsubarraymax",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch evenoddarray",
+            "request": "launch",
+            "mainClass": "tophundread.evenoddarray",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch maximumscallerproduct",
+            "request": "launch",
+            "mainClass": "tophundread.maximumscallerproduct",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch productoftwoarray",
+            "request": "launch",
+            "mainClass": "tophundread.productoftwoarray",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch removedublicates",
+            "request": "launch",
+            "mainClass": "tophundread.removedublicates",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch nonrepeating",
+            "request": "launch",
+            "mainClass": "tophundread.nonrepeating",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch nonrepeatingelement",
+            "request": "launch",
+            "mainClass": "tophundread.nonrepeatingelement",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch hashrepeatingele",
+            "request": "launch",
+            "mainClass": "tophundread.hashrepeatingele",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch repeatingelement",
+            "request": "launch",
+            "mainClass": "tophundread.repeatingelement",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch frequencyarray",
+            "request": "launch",
+            "mainClass": "tophundread.frequencyarray",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch perfectnum",
+            "request": "launch",
+            "mainClass": "tophundread.perfectnum",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch strongnumber",
+            "request": "launch",
+            "mainClass": "tophundread.strongnumber",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch factor",
+            "request": "launch",
+            "mainClass": "tophundread.factor",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibonaci",
+            "request": "launch",
+            "mainClass": "tophundread.fibonaci",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch amstrongnum",
+            "request": "launch",
+            "mainClass": "tophundread.amstrongnum",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch primeinrange",
+            "request": "launch",
+            "mainClass": "tophundread.primeinrange",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch prime",
+            "request": "launch",
+            "mainClass": "tophundread.prime",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch basic",
+            "request": "launch",
+            "mainClass": "basic",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch demostringbuffer",
+            "request": "launch",
+            "mainClass": "demostringbuffer",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch endzero",
+            "request": "launch",
+            "mainClass": "endzero",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch firstnonrepeatbyhash",
+            "request": "launch",
+            "mainClass": "firstnonrepeatbyhash",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch firstrepeatingString",
+            "request": "launch",
+            "mainClass": "firstrepeatingString",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch frequency",
+            "request": "launch",
+            "mainClass": "frequency",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch greater",
+            "request": "launch",
+            "mainClass": "greater",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch half",
+            "request": "launch",
+            "mainClass": "half",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch hashdsa",
+            "request": "launch",
+            "mainClass": "hashdsa",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch hashelementsinarray",
+            "request": "launch",
+            "mainClass": "hashelementsinarray",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertion",
+            "request": "launch",
+            "mainClass": "insertion",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch introstring",
+            "request": "launch",
+            "mainClass": "introstring",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch leaders",
+            "request": "launch",
+            "mainClass": "leaders",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch mathuse",
+            "request": "launch",
+            "mainClass": "mathuse",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch nonrepeatarray",
+            "request": "launch",
+            "mainClass": "nonrepeatarray",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch oneDarray",
+            "request": "launch",
+            "mainClass": "oneDarray",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch opration",
+            "request": "launch",
+            "mainClass": "opration",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindromeString",
+            "request": "launch",
+            "mainClass": "palindromeString",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindromesubarray",
+            "request": "launch",
+            "mainClass": "palindromesubarray",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch patternmatchbruet",
+            "request": "launch",
+            "mainClass": "patternmatchbruet",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch productofdigit",
+            "request": "launch",
+            "mainClass": "productofdigit",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch removedubbyarr",
+            "request": "launch",
+            "mainClass": "removedubbyarr",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch removedublicaresS",
+            "request": "launch",
+            "mainClass": "removedublicaresS",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch removedublicatebyset",
+            "request": "launch",
+            "mainClass": "removedublicatebyset",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch removedublicates",
+            "request": "launch",
+            "mainClass": "removedublicates",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch removespace",
+            "request": "launch",
+            "mainClass": "removespace",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch repeat",
+            "request": "launch",
+            "mainClass": "repeat",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch replace",
+            "request": "launch",
+            "mainClass": "replace",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch replaceocurence",
+            "request": "launch",
+            "mainClass": "replaceocurence",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch reversestring",
+            "request": "launch",
+            "mainClass": "reversestring",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch reversestringarr",
+            "request": "launch",
+            "mainClass": "reversestringarr",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch reversewordinscne",
+            "request": "launch",
+            "mainClass": "reversewordinscne",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch reversewords",
+            "request": "launch",
+            "mainClass": "reversewords",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch root",
+            "request": "launch",
+            "mainClass": "root",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch searchinsbarray",
+            "request": "launch",
+            "mainClass": "searchinsbarray",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch secondWayprime",
+            "request": "launch",
+            "mainClass": "secondWayprime",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch sortstring",
+            "request": "launch",
+            "mainClass": "sortstring",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch sortstringbysort",
+            "request": "launch",
+            "mainClass": "sortstringbysort",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch subsequence",
+            "request": "launch",
+            "mainClass": "subsequence",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch threesum",
+            "request": "launch",
+            "mainClass": "threesum",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch twoSum",
+            "request": "launch",
+            "mainClass": "twoSum",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch twosumhash",
+            "request": "launch",
+            "mainClass": "twosumhash",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch vote",
+            "request": "launch",
+            "mainClass": "vote",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch yes",
+            "request": "launch",
+            "mainClass": "yes",
+            "projectName": "placement_b5a448c"
+        },
+        {
+            "type": "java",
+            "name": "Launch zeroatend",
+            "request": "launch",
+            "mainClass": "zeroatend",
+            "projectName": "placement_b5a448c"
+        }
+    ]
+}
